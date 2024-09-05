@@ -1,0 +1,30 @@
+[
+    {
+        "id": "color-yellow",
+        "colorHeader": "#FFEFBE",
+        "colorBody": "#FFF5DF",
+        "colorText": "#18181A"
+    },
+
+    {
+        "id": "color-red",
+        "colorHeader": "#f00a5e",
+        "colorBody": "#f00a5e",
+        "colorText": "#18181A"
+    },
+ 
+    {
+        "id": "color-aquamarine",
+        "colorHeader": "#7fffd4",
+        "colorBody": "#7fffd4",
+        "colorText": "#18181A"
+    },
+    
+    {
+        "id": "color-avocado",
+        "colorHeader": "#b0da09",
+        "colorBody": "#b0da09",
+        "colorText": "#18181A"
+    }
+
+]
